@@ -23,7 +23,6 @@
 | Samuel Simpson  | 20888/2023          |
 | Umutoni Sonia   | 27216/2024          |
 | Charlene Dell   | 23680/2024          |
-| Ansu P. Sirleaf | 20760/2023          |
 
 ---
 
