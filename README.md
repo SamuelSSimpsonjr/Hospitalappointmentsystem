@@ -264,7 +264,7 @@ Hospital Appointment System/
 
 # Figma Project Link
 
-https://www.figma.com/design/KJDgeqae54KhAlokChKUhV/Untitled?node-id=0-1&t=NUz4HnAYWgaaXaWX-1
+https://www.figma.com/design/KJDgeqae54KhAlokChKUhV/Hospital-Appointment-System?node-id=0-1&t=MwzIhGBvSH7Ef3EO-1
 
 ---
 
