@@ -274,7 +274,7 @@ Paste your GitHub repository link here.
 Example:
 
 text
-https://github.com/username/hospital-appointment-system
+https://github.com/SamuelSSimpsonjr/Hospitalappointmentsystem.git
 
 
 ---
