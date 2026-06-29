@@ -22,7 +22,7 @@
 | --------------- | ------------------- |
 | Samuel Simpson  | 20888/2023          |
 | Umutoni Sonia   | 27216/2024          |
-| Charlene Dell   | 23680/2024          |
+| Charlene Vardel Mac-Attoh | 23680/2024 |
 
 ---
 
