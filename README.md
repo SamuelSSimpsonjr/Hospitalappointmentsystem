@@ -20,7 +20,7 @@
 
 | Name            | Registration Number |
 | --------------- | ------------------- |
-| Samuel Simpson  | 20888/2023          |
+| Samuel Secret Simpson  | 20888/2023          |
 | Umutoni Sonia   | 27216/2024          |
 | Charlene Vardel Mac-Attoh | 23680/2024 |
 
